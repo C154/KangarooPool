@@ -1,5 +1,5 @@
 # KangarooPool
-Kangaroo Pool - Solo pool for Bitcoin Puzzle Transaction 130
+Kangaroo Pool - Pool for Bitcoin Puzzle Transaction 130
 
 Follow the instructions to setup your Kangaroos at this link  https://github.com/ZenulAbidin/Kangaroo-256?tab=readme-ov-file
 
